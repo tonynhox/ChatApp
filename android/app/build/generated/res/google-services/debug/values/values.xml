@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1079328159025-7oo11u5harqr01rgboq30um339ff9oqj.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1079328159025</string>
+    <string name="google_api_key" translatable="false">AIzaSyB2egTlg-k11-cvg3O_UiMA-1-OERtQL0A</string>
+    <string name="google_app_id" translatable="false">1:1079328159025:android:7f943b8a45a69d1f2d6c10</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB2egTlg-k11-cvg3O_UiMA-1-OERtQL0A</string>
+    <string name="google_storage_bucket" translatable="false">chatrealtime-14b6f.appspot.com</string>
+    <string name="project_id" translatable="false">chatrealtime-14b6f</string>
+</resources>
